@@ -3,7 +3,7 @@
     public class Constants
     {
         public const string targetLocalHttps = "https://localhost:7104";
-        public const string targetLocalHttp = "http://localhost:8080";
+        public const string targetLocalHttp = "http://localhost:5173";
     }
     public class BlackList
     {
